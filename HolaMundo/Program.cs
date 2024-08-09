@@ -14,11 +14,21 @@ namespace HolaMundo
             char caracter = 'a';
 
             double i = 9.3;
+            int numero = 0;
 
             Console.WriteLine(i);
             Console.WriteLine(caracter);
-
+            Console.WriteLine(numero);
             Console.WriteLine(saludo);
+
+
+
+
+            // Crear una instancia de la clase Variables
+            Variables variables = new Variables();
+            // Llamar al método MostrarPrecio
+            variables.MostrarPrecio();
+
 
 
         }
