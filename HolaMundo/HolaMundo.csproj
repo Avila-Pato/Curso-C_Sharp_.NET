@@ -43,8 +43,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ConvertToNumber.cs" />
+    <Compile Include="Ejercicios\prerimetro de cualquier poligono regular.cs" />
+    <Compile Include="Ejercicios\Transformando grados centigrados a grados fahrenheit.cs" />
+    <Compile Include="Jerarquia_de_operaciones.cs" />
+    <Compile Include="Operadores aritméticos.cs" />
+    <Compile Include="Operadores de comparación.cs" />
+    <Compile Include="Operadores.Logicos.cs" />
+    <Compile Include="OperadoresAsignacion.cs" />
+    <Compile Include="Ejercicios\perimetro y area de una figura.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReadLine.cs" />
     <Compile Include="variables.cs" />
   </ItemGroup>
   <ItemGroup>
