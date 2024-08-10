@@ -20,9 +20,7 @@ namespace HolaMundo
             //Console.WriteLine(caracter);
             //Console.WriteLine(numero);
             //Console.WriteLine(saludo);
-
-
-
+           
 
             // Crear una instancia de las clases
             Variables variables = new Variables();
@@ -33,18 +31,16 @@ namespace HolaMundo
             Jerarquia_de_operaciones jerarquia_De_Operaciones = new Jerarquia_de_operaciones();
             ReadLine readLine = new ReadLine();
 
-            ConvertToNumber convertToNumber = new ConvertToNumber();
-            
-            Problema2 problema2 = new Problema2();
+         
 
             TransformandoFahrenheit transformandoFahrenheit = new TransformandoFahrenheit();
 
-            transformandoFahrenheit.MostrarTransformandoFahrenheit();
 
 
+            ConvertToNumber convertToNumber = new ConvertToNumber();
+            Problema2 problema2 = new Problema2();
 
-
-
+            //transformandoFahrenheit.MostrarTransformandoFahrenheit
             //problema2.mostrarProblema2();
             //convertToNumber.MostrarConvertToNumber();
             //readLine.MostrarReadLine();
