@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F9650E20-BC0E-4C25-AFBE-C60B370589D4}</ProjectGuid>
+    <ProjectGuid>{C616DC55-93A8-4E59-8796-845BF8D5F5F7}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Operadores</RootNamespace>
-    <AssemblyName>Operadores</AssemblyName>
+    <RootNamespace>Toma_de_deciciones_3_</RootNamespace>
+    <AssemblyName>Toma de deciciones 3#</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
